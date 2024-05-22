@@ -1,4 +1,5 @@
-<h1 align="center">👋 Ahoy matey! I'm Mughuntha</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Ahoy+matey+!;I'm+Mughuntha)](https://git.io/typing-svg)
+<h1 align="center">A Warm Welcome To You</h1>
 <h3 align="center">AI on edge | Aspiring Embedded Engineer | Data science | Machine Learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mughunthan&label=Profile%20views&color=0e75b6&style=flat" alt="mughunthan" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQEGbC3c3fA3gg/article-cover_image-shrink_720_1280/0/1657010838520?e=2147483647&v=beta&t=fCk7r1GykNi-ydwmMeh1co49NO0fJBuqBOP-LX3LHjY">
